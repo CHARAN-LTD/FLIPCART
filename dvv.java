@@ -5,3 +5,4 @@ this line will be updated
 today is monday
 tomarrow is tuesday
 after that is wed
+thursday
