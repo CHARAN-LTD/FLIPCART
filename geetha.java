@@ -3,3 +3,5 @@ today is monday
 and holiday
 tomarrow is tuesday
 afterthat is wed
+thursday
+
